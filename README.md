@@ -1,2 +1,2 @@
-# USA-House-price-prediction
-<img src="https://github.com/johnathi/USA-House-price-prediction/blob/main/USA_House_price_prediction.ipynb">
+# USA-House-price-prediction using Linear Regression 
+This notebook helps to predict Prices of houses using linear regression. It is trained using the housing dataset from Kaggle.
